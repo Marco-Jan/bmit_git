@@ -1,0 +1,16 @@
+D:\csharp\BMI\BMI\bin\Debug\net7.0-windows\BMI.exe
+D:\csharp\BMI\BMI\bin\Debug\net7.0-windows\BMI.deps.json
+D:\csharp\BMI\BMI\bin\Debug\net7.0-windows\BMI.runtimeconfig.json
+D:\csharp\BMI\BMI\bin\Debug\net7.0-windows\BMI.dll
+D:\csharp\BMI\BMI\bin\Debug\net7.0-windows\BMI.pdb
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.Form1.resources
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.csproj.GenerateResource.cache
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.AssemblyInfoInputs.cache
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.AssemblyInfo.cs
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.csproj.CoreCompileInputs.cache
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.dll
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\refint\BMI.dll
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.pdb
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\BMI.genruntimeconfig.cache
+D:\csharp\BMI\BMI\obj\Debug\net7.0-windows\ref\BMI.dll
